@@ -97,5 +97,37 @@ z test # 跳转到最近包含test字符的目录
 
 ## Chrome
 
-- ctrl + option + j 打开开发者工具
+- cmd + option + j 打开开发者工具
 - 双指左右滑动 - 后退和前进
+
+
+## 如何选择开发电脑？
+
+> Johnny @ 全栈之巅
+
+1. 为什么 MacOS 比 Windows 更适合做开发？
+    - MacOS 底层是 unix，更接近服务器端上的 Linux
+    - Windows 可能会有不一致的权限问题
+    - MacOS 相对 Windows 来说更安全省心
+    - MacOS 更加人性化：键盘、触控板、省电...
+
+1. 为什么只选2012年末之后的 Macbook pro retina？
+    - 视网膜显示屏
+    - CPU 性能
+    - 散热
+
+1. MacOS 开发环境怎么配置？
+    - github.com/topfullstack/mac
+
+1. 怎么在 MacOS 上装 Windows？
+
+1. 如何选择性价比最高的 Macbook pro?
+    - 尺寸：13寸和15寸
+    - 硬盘：128G、256G、512G、1T
+    - 内存：4G、8G、16G
+    - CPU：2.0GHz ~ 3.1GHz
+    - 电池循环
+    - 地区版本：国行、港版、其他
+
+1. 全栈之巅官方淘宝店
+    - qzzd.taobao.com
